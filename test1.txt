@@ -1,7 +1,7 @@
-pwd
-ls
 New commands:
 ----------------
+pwd
+ls
 git init
 git config --global user.email "bhanu45369@gmail.com"
 git config --global user.name "praveen@infoane.com"
