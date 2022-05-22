@@ -91,7 +91,24 @@ concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 
+=========================================================================
+
+JIRA 
+Email address
+bhanu45369@gmail.com
+Bhanu$BRI$9936
+
+Full name
+Bhanu Chandher
+
+bhanunanijirapractice.atlassian.net
+---------------------------------------------------
+
+Github
+UN: bhanu45369@gmail.com
+PW: BhanuB$9936
 
 
-
-
+git remote rm origin
+git remote rm upstream
+==================================================================
