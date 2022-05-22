@@ -1,1 +1,24 @@
-test1 testing
+pwd
+ls
+New commands:
+----------------
+git init
+git config --global user.email "bhanu45369@gmail.com"
+git config --global user.name "praveen@infoane.com"
+git add test1.txt
+git status
+git commit -m "tes"
+git log
+git remote add origin https://github.com/Bhanuchandher/nani.git
+git push -u origin master
+
+
+
+updated code commands:
+-----------------------
+git status
+git add test1.txt
+git status
+git commit -m "tes"
+git log
+git push
