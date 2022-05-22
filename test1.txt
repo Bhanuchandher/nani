@@ -16,6 +16,9 @@ git push -u origin master
 
 updated code commands:
 -----------------------
+clear
+pwd
+ls
 git status
 git add test1.txt
 git status
